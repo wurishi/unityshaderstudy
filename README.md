@@ -1,1 +1,1 @@
-[link](https://github.com/wurishi/unityshaderstudy)
+[link](./note.md)
